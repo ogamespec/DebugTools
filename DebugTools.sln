@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDemo", "ColorTextDemo\TextDemo.csproj", "{A07D2499-D55C-4F7B-AAF2-D62BEF9B9CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryView", "MemoryViewDemo\MemoryView.csproj", "{D33AE24B-C2E8-43DB-90E8-8A09852103F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugTools", "DebugTools\DebugTools.csproj", "{BB4862F6-C99D-4ED8-B5D0-25E7C9DC020E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07D2499-D55C-4F7B-AAF2-D62BEF9B9CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07D2499-D55C-4F7B-AAF2-D62BEF9B9CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07D2499-D55C-4F7B-AAF2-D62BEF9B9CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07D2499-D55C-4F7B-AAF2-D62BEF9B9CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33AE24B-C2E8-43DB-90E8-8A09852103F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33AE24B-C2E8-43DB-90E8-8A09852103F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33AE24B-C2E8-43DB-90E8-8A09852103F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33AE24B-C2E8-43DB-90E8-8A09852103F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4862F6-C99D-4ED8-B5D0-25E7C9DC020E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4862F6-C99D-4ED8-B5D0-25E7C9DC020E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4862F6-C99D-4ED8-B5D0-25E7C9DC020E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4862F6-C99D-4ED8-B5D0-25E7C9DC020E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A22522A-87FB-4D0D-96E4-227AA389784B}
+	EndGlobalSection
+EndGlobal
